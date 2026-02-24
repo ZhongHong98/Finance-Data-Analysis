@@ -85,18 +85,18 @@ Annualized volatility was calculated using the standard deviation of daily retur
 The following charts were created:
 
 Top 10 CAGR Stocks Bar Chart
-![Top 10 CAGR Stocks Bar Chart](Screenshot/Sales.png)
+![Top 10 CAGR Stocks Bar Chart](Image/Top_10_CAGR_Stocks_Bar_Chart.png)
 
 Top 3 CAGR Stocks Price Trend Line Chart
-![Top 3 CAGR Stocks Price Trend Line Chart](Screenshot/Sales.png)
+![Top 3 CAGR Stocks Price Trend Line Chart](Image/Top_3_CAGR_Stocks_Price_Trend_Line_Chart.png)
 
 Top 10 Volatility Stocks Bar Chart
-![Top 10 Volatility Stocks Bar Chart](Screenshot/Sales.png)
+![Top 10 Volatility Stocks Bar Chart](Image/Top_10_Volatility_Stocks_Bar_Chart.png)
 
 Risk vs Return Scatter Plot
-![Risk vs Return Scatter Plot](Screenshot/Sales.png)
+![Risk vs Return Scatter Plot](Image/Risk_vs_Return_Scatter_Plot.png)
 
-📁 Python file: [View Python File](Data/E-Commerce_Dataset.csv)
+📁 Python file: [View Python File](Python/Finance_Python.py)
 
 ## 7️⃣ Key Business Insights
 📌 1. Extremely High CAGR Stocks Are Mostly Short-Term or High-Risk Assets
