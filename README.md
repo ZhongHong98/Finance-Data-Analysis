@@ -35,7 +35,7 @@ The dataset contains historical daily stock price data with the following column
 
 Total records: ~3.8 million rows
 
-📁 CSV file: [View CSV File](Data/E-Commerce_Dataset.csv)
+📁 Dataset: [View Dataset](Dataset/Finance_Dataset.zip)
 
 ## 4️⃣ Data Validation (Python)
 
